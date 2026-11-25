@@ -66,7 +66,7 @@
 
 AI2SQL is an AI‑powered SQL query builder and generator that connects to your live database schema to generate, explain, fix, and optimize SQL queries from plain‑English prompts. It offers read‑only execution, supports PostgreSQL, MySQL, SQL Server, Oracle, Snowflake, BigQuery, Redshift, MongoDB, SQLite and Firebird, and provides both a web interface and MCP endpoint for AI agents. Free plans include limited queries, with paid tiers offering more usage and a desktop app.
 
-**Areas:** AI · SQL · Database · Automation · No-code · DeveloperTools
+**Areas:** Artificial Intelligence · SQL · Database · Automation · No-Code · Developer Tools
 
 ## AI2SQL on APIs.io
 
@@ -84,26 +84,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ai2Sql Io Authentication](https://apis.io/security/ai2sql-io/ai2sql-io-authentication/)
-- [Ai2Sql Io Domain Security](https://apis.io/security/ai2sql-io/ai2sql-io-domain-security/)
+- [AI2SQL Authentication](https://apis.io/security/ai2sql-io/ai2sql-io-authentication/)
+- [AI2SQL Domain Security](https://apis.io/security/ai2sql-io/ai2sql-io-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Ai2Sql Io Scopes](https://apis.io/scopes/ai2sql-io/ai2sql-io-scopes/)
+- [AI2SQL Scopes](https://apis.io/scopes/ai2sql-io/ai2sql-io-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Ai2Sql Io Plans Pricing](https://apis.io/plans/ai2sql-io/ai2sql-io-plans-pricing/)
+- [AI2SQL Plans Pricing](https://apis.io/plans/ai2sql-io/ai2sql-io-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Ai2Sql Io Rate Limits](https://apis.io/rate-limits/ai2sql-io/ai2sql-io-rate-limits/)
+- [AI2SQL Rate Limits](https://apis.io/rate-limits/ai2sql-io/ai2sql-io-rate-limits/)
 
 ## Where to find this API
 
@@ -118,25 +118,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 27.0** — thin · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 25.9** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 64.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 28.4 |
+| Operational transparency | 28.6 |
 | Developer ergonomics | 19.0 |
-| Access clarity | 62.6 |
+| Access clarity | 57.4 |
 
-**Agent readiness 27.2** — agent-aware
+**Agent readiness 23.6** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | documented (partial credit) |
@@ -155,8 +155,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ai2sql-io/](https://apis.io/providers/ai2sql-io/).
 
